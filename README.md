@@ -8,18 +8,13 @@
 
 ╔═══════════════ ≪ °❈° ≫ ═══════════════╗
 
-- 🔭 Working on App Development/Java/C++ 💻
-- 🌱 Learning Json & Web Development <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"/>
-- 👯 Need collaboration on App Development?
-- 💬 Ask me about Android, Ethical Hacking, Cyber Security, Modding or any tech related stuff.
-- 📫 How to reach me : <a href="https://t.me/Rishabh25chauhan"> Telegram </a>
-- 🙋🏻‍♂️ Gender : Male 😂😑
-- ⚡ Facts About Me: I lob cats 😍 but i don't hab 🙁 any cat. 👉🏻 Ask me anything related to human psychology 👉🏻 Nuub Kernel Development Learner 👉🏻 GaimeR only Brawl Stars 😒
+- 🔥 Stable Kernel for Redmi Note 7 aka Lavender.
+- 👯 Merged with Stormbreaker Kernel Project.
+- 📫 How to reach us : <a href="https://t.me/predator_lavender"> Telegram </a>
+- 🤔 Beast or Best : U Decide 😉🔥
 
 ╚═══════════════ ≪ °❈° ≫ ═══════════════╝
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
-![Praveen GitHub statistic](https://github-readme-stats.vercel.app/api?username=Nuub32User&show_icons=true)
+![GitHub statistic](https://github-readme-stats.vercel.app/api?username=sohamxda7&show_icons=true)
 
 <br/>
