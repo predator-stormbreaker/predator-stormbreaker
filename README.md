@@ -14,7 +14,3 @@
 - 🤔 Beast or Best : U Decide 😉🔥
 
 ╚═══════════════ ≪ °❈° ≫ ═══════════════╝
-
-![GitHub statistic](https://github-readme-stats.vercel.app/api?username=sohamxda7&show_icons=true)
-
-<br/>
